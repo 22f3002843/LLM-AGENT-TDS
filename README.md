@@ -202,4 +202,4 @@ MIT License - Feel free to modify and extend!
 
 ## Creator
 
-**AgentFlow** was created by **Sanket Mishra** - An intelligent multi-tool AI assistant designed to showcase the power of browser-based agent reasoning and workflow automation.
+**AgentFlow** was created by **Devansh Gupta** - An intelligent multi-tool AI assistant designed to showcase the power of browser-based agent reasoning and workflow automation.
